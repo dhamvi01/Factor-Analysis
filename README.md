@@ -12,7 +12,7 @@ Factor Analysis (FA) is an exploratory data analysis method used to search influ
 1. Exploratory Factor Analysis: Its basic assumption is that any observed variable is directly associated with any factor.
 2. Confirmatory Factor Analysis (CFA): Its basic assumption is that each factor is associated with a particular set of observed variables. CFA confirms what is expected on the basic.
 
-### Factor Analysis Process
+## Factor Analysis Process
 The primary objective of factor analysis is to reduce the number of observed variables and find unobservable variables, This can be achived by:
 1. Factor Extraction: the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.
 2. Factor Rotation:  In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability.
