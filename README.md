@@ -2,7 +2,7 @@
 
 Factor Analysis (FA) is an exploratory data analysis method used to search influential underlying factors or latent variables from a set of observed variables. It helps in data interpretations by reducing the number of variables. It extracts maximum common variance from all variables and puts them into a common score.
 
-Assumptions:
+## Assumptions:
   There are no outliers in data.
   Sample size should be greater than the factor.
   There should not be perfect multicollinearity.
