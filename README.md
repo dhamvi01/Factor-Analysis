@@ -14,8 +14,8 @@ Factor Analysis (FA) is an exploratory data analysis method used to search influ
 
 ### Factor Analysis Process
 The primary objective of factor analysis is to reduce the number of observed variables and find unobservable variables, This can be achived by:
-1.Factor Extraction: the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.
-2.Factor Rotation:  In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability.
+1. Factor Extraction: the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.
+2. Factor Rotation:  In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability.
 
 ## Eigenvalues:
 - Eigenvalues represent variance explained each factor from the total variance. It is also known as characteristic roots.
