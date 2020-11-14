@@ -23,11 +23,11 @@ Factor Analysis (FA) is an exploratory data analysis method used to search influ
 Kaiser criterion is an analytical approach, which is based on the more significant proportion of variance explained by factor will be selected. The eigenvalue is a good criterion for determining the number of factors. Generally, an eigenvalue greater than 1 will be considered as selection criteria for the feature.
 
 ## Factor Analysis Vs. Principle Component Analysis
-  PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.
-  PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.
-  PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.
-  PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.
-  PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.
-  PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.
+  - PCA components explain the maximum amount of variance while factor analysis explains the covariance in data.
+  - PCA components are fully orthogonal to each other whereas factor analysis does not require factors to be orthogonal.
+  - PCA component is a linear combination of the observed variable while in FA, the observed variables are linear combinations of the unobserved variable or factor.
+  - PCA components are uninterpretable. In FA, underlying factors are labelable and interpretable.
+  - PCA is a kind of dimensionality reduction method whereas factor analysis is the latent variable method.
+  - PCA is a type of factor analysis. PCA is observational whereas FA is a modeling technique.
  
 Let's build the factor analysis model
