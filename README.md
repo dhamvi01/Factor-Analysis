@@ -17,6 +17,12 @@ The primary objective of factor analysis is to reduce the number of observed var
 1. Factor Extraction: the number of factors and approach for extraction selected using variance partitioning methods such as principal components analysis and common factor analysis.
 2. Factor Rotation:  In this step, rotation tries to convert factors into uncorrelated factors — the main goal of this step to improve the overall interpretability.
 
+## Adequacy Test
+Before we perform factor analysis, we need to evaluate the “factorability” of our dataset. Factorability means “can we find the factors in the dataset?”. There are two methods to check the factorability:
+
+  - Bartlett’s Test -  whether the correlation is present in the given data
+  - Kaiser-Meyer-Olkin Test - it's measuring the proportion of variance that might be a common variance among the variables
+
 ## Eigenvalues:
 - Eigenvalues represent variance explained each factor from the total variance. It is also known as characteristic roots.
 
